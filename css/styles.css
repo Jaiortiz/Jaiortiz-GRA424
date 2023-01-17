@@ -102,3 +102,11 @@
     height: 42.857143vh;
     width: 1.8vw;
 }
+
+
+.step2{
+    display: flex;
+    margin: auto;
+    height: 71.4285721vh;
+    width: 71.428571vw;
+}
